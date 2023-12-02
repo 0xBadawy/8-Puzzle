@@ -109,6 +109,7 @@ for i in range(3):
             
 delay=0
 uuu=0
+k=0
             
 clocK = pygame.time.Clock()
 while True:
