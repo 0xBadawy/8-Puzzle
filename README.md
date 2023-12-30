@@ -3,3 +3,10 @@
 
 
 https://github.com/Mohamed-badawy-sayed/8-Puzzle/assets/96737157/990d9f65-7aea-4fc0-a4a3-8aea6e201751
+
+
+
+## contributors 
+<a href="https://github.com/Mohamed-badawy-sayed/8-Puzzle/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Mohamed-badawy-sayed/8-Puzzle" />
+</a>
